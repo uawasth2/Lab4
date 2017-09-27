@@ -8,7 +8,7 @@
  * 5. Remove unnecessary comments as appropriate
  */
 /**
- * this is dumb.
+ * a class
  */
 public class ReclamationProject {
     /**
